@@ -104,22 +104,22 @@ table div.line_note {
 
 table div.line_serial {
 	text-align: left;
-	font-weight: normal;
+	font-size: x-small;
 	padding-left: 10px;
 }
 
 table.workorders div.line_description {
-	font-weight: normal;
+	font-size: x-small;
 	padding-left: 10px;
 }
 
 table.workorders div.line_note {
-	font-weight: normal;
+	font-size: x-small;
 	padding-left: 10px;
 }
 
 table.workorders div.line_serial {
-	font-weight: normal;
+	font-size: x-small;
 	padding-left: 20px;
 }
 
